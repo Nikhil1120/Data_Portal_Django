@@ -1,4 +1,4 @@
-![Screenshot 2024-12-13 231703](https://github.com/user-attachments/assets/45747bc8-08cc-4c33-a960-da11050e6f8c)# MySQL Django Data Portal
+# MySQL Django Data Portal
 A web application built using Django (Python) and MySQL to efficiently manage and retrieve employee/student data. This project provides full CRUD operations with secure user authentication, data validation, search and filter options, and an intuitive UI.
 
 # Key Features
