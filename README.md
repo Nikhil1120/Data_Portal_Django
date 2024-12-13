@@ -76,6 +76,15 @@ python manage.py runserver
  9.Access the Portal
 Open your browser and go to http://127.0.0.1:8000 to view the portal. You can log in with the superuser account or any other user credentials.
 
+# outputs:
+
+![Screenshot 2024-12-13 231649](https://github.com/user-attachments/assets/b57c909e-844a-4774-adbf-8eda822635a0)
+
+
+![Screenshot 2024-12-13 231703](https://github.com/user-attachments/assets/5fb00c93-0186-4f1f-b2f8-86b04e80debb)
+
+
+
 # Future Improvements
 Reporting: Add the ability to generate detailed reports based on the data.
 Role-Based Access Control: Implement different levels of user permissions for enhanced security and management.
