@@ -1,4 +1,4 @@
-# MySQL Django Data Portal
+![Screenshot 2024-12-13 231703](https://github.com/user-attachments/assets/45747bc8-08cc-4c33-a960-da11050e6f8c)# MySQL Django Data Portal
 A web application built using Django (Python) and MySQL to efficiently manage and retrieve employee/student data. This project provides full CRUD operations with secure user authentication, data validation, search and filter options, and an intuitive UI.
 
 # Key Features
@@ -75,6 +75,15 @@ python manage.py runserver
 
  9.Access the Portal
 Open your browser and go to http://127.0.0.1:8000 to view the portal. You can log in with the superuser account or any other user credentials.
+
+# outputs:
+
+![Screenshot 2024-12-13 231649](https://github.com/user-attachments/assets/11686032-fc28-4555-beff-722bdf69492a)
+
+
+![Screenshot 2024-12-13 231703](https://github.com/user-attachments/assets/7e116903-ae83-493d-bf71-f3787481bb57)
+
+
 
 # Future Improvements
 Reporting: Add the ability to generate detailed reports based on the data.
