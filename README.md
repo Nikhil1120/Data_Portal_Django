@@ -85,10 +85,6 @@ Open your browser and go to http://127.0.0.1:8000 to view the portal. You can lo
 
 
 
-# Future Improvements
-Reporting: Add the ability to generate detailed reports based on the data.
-Role-Based Access Control: Implement different levels of user permissions for enhanced security and management.
-Data Visualization: Integrate charts or graphs to visually represent the data.
 # Acknowledgements
 Sathish Gupta Sir for the continuous guidance and support throughout the project.
 NareshIT for providing the essential resources and training that helped bring this project to life.
